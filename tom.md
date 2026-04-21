@@ -12,7 +12,7 @@ l like you
 1. l ilek u
 2. youare 
 
-`cd`
+cd
 
 ---
 youare the good one
